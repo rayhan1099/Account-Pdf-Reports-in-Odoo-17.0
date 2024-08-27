@@ -29,15 +29,3 @@ Configuration
 =============
 
 There is Nothing to Configure
-
-
-Credits
-=======
-
-
-
-
-Author & Maintainer
--------------------
-
-This module is maintained by the Odoo Mates
