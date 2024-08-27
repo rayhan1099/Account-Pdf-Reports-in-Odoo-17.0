@@ -34,10 +34,7 @@ There is Nothing to Configure
 Credits
 =======
 
-Contributors
-------------
 
-* Odoo Mates <odoomates@gmail.com>
 
 
 Author & Maintainer
